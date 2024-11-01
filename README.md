@@ -1,1 +1,1 @@
-# Sale-Item-Management-App
+Developed a C# application that manages a collection of sale items using a List, with custom event handling to alert users when an item is sold for zero dollars. Implemented user input validation, dynamic total calculations, and a responsive UI, enhancing user experience through effective exception management and data display.
